@@ -1,7 +1,7 @@
 # Cardiovascular-disease-prediction
 This project uses machine learning techniques to predict cardiovascular disease. To achieve accurate health risk prediction, including data preprocessing, exploratory data analysis, feature scaling, handling class imbalance with SMOTE, and training multiple models, including SVM, KNN, Decision Tree, Random Forest, and Logistic Regression.
 
-## Dataset Description
+### Dataset Description
 
 The dataset contains medical attributes such as age, gender, height, weight, blood pressure, cholesterol, glucose level, smoking habits, physical activity, and a target variable indicating the presence of heart disease.
 
