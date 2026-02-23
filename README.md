@@ -7,33 +7,53 @@ The dataset contains medical attributes such as age, gender, height, weight, blo
 
 ### Technologies Used:
 Python
-Pandas, NumPy
-Matplotlib, Seaborn
+
+Pandas
+
+NumPy
+
+Matplotlib 
+
+Seaborn
+
 Scikit-learn
+
 Imbalanced-learn (SMOTE)
 
 ### Data Preprocessing:
 Removed unrealistic and missing values
+
 Converted age from days to years
+
 Handled outliers using visualization
+
 Balanced data using SMOTE
+
 Scaled features for better performance
 
 ### Exploratory Data Analysis:
 Distribution plots for major features
+
 Boxplots to detect outliers
+
 Correlation heatmap to analyze relationships
 
 ### Machine Learning Models:
 Logistic Regression
+
 K-Nearest Neighbors (KNN)
+
 Decision Tree
+
 Random Forest
+
 Support Vector Machine (SVM)
 
 ### Model Evaluation:
 Accuracy score
+
 Confusion matrix
+
 Classification report
 
 ### Hyperparameter Tuning:
